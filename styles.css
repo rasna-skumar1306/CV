@@ -1,18 +1,28 @@
 .Head{
-    background-color: #48466d;
-    margin-top: 0px;
+    background-color: #000000;
+    margin: 0px 0px 2px;
+    background-image: url(Images/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    padding: 40px;
+    height: 300px;
 }
 
-#Name{
-    margin-top: 0px;
+.Name{
+    margin: 0px auto 0px auto;
 }
 
 body{
     background-color: #3d84a8;
     color: #abedd8;
-    margin-top: 0px;    
+    margin: 0px 0px 2px;    
+    text-align: center;
 }
 
 .GOLANG{
     text-decoration: underline;
+}
+
+.zeb{
+    margin: 0px;
+    border-radius: 80px;
 }
