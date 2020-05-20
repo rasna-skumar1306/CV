@@ -1,19 +1,23 @@
 .Head{
-    background-color: #000000;
+    background-color: #bbded6;
     margin: 0px 0px 2px;
-    background-image: url(Images/maxresdefault.jpg);
-    background-repeat: no-repeat;
     padding: 40px;
-    height: 300px;
 }
 
-.Name{
+#Name{
     margin: 0px auto 0px auto;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 50px;
+}
+#do{
+    margin: 0px auto 0px auto;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
 }
 
 body{
     background-color: #3d84a8;
-    color: #abedd8;
+    color: #48466d;
     margin: 0px 0px 2px;    
     text-align: center;
 }
